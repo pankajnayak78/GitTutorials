@@ -10,6 +10,7 @@ package com.pk.learn.git;
 public class Feature {
 
 	public int add(int a, int b) {
+		System.out.println(a + b);
 		return a + b;
 	}
 }
