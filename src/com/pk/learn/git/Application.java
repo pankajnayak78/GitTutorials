@@ -10,6 +10,6 @@ public class Application {
 		System.out.println("Hi.");
 		System.out.println("Hi...Adding tag...");
 		System.out.println("Hello...Welcome to git.");
-		System.out.println("Hello tag v1.0^");
+		System.out.println("Hello tag v1.0");
 	}
 }
