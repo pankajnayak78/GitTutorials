@@ -1,3 +1,4 @@
+
 package com.pk.learn.git;
 
 /**
@@ -11,5 +12,9 @@ public class Application {
 		System.out.println("Hi...Adding tag...");
 		System.out.println("Hello...Welcome to git.");
 		System.out.println("Hello tag v1.0");
+
+		Feature feature = new Feature();
+		System.out.println(feature.add(20, 30));
+
 	}
 }
